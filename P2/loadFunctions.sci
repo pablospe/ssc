@@ -13,4 +13,6 @@ exec beuler.sci
 exec mixed_euler.sci
 exec cicled_euler.sci
 
+exec alpha_mixed_euler.sci
+
 exec global_error.sci
